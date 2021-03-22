@@ -108,5 +108,5 @@ spring:
 <img src= "https://user-images.githubusercontent.com/74044212/111998954-db294100-8b5f-11eb-88c8-d2a6a31b2b08.png" width="100%" height="500px" />
 
 #### 게시글 상세보기 누르면 post 정보 다뿌려주기,댓글리스트 뿌려주기
-#### 게시글 수정,
+#### 게시글 수정,삭제 기능 
 #### 댓글등록,삭제 기능 
