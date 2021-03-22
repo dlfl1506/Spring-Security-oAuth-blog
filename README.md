@@ -102,7 +102,7 @@ spring:
 #### 글쓰기 완료 버튼 누를시 post 디비에 insert 
 
 - 회원정보보기 
-<img src= "https://user-images.githubusercontent.com/74044212/111998778-ae752980-8b5f-11eb-83cf-cc0e471e2cf9.pngg" width="300px" height="300px" />
+<img src= "https://user-images.githubusercontent.com/74044212/111999250-26435400-8b60-11eb-9d3a-59cadbdc674f.png" width="300px" height="300px" />
 
 - 게시글 상세보기
 <img src= "https://user-images.githubusercontent.com/74044212/111998954-db294100-8b5f-11eb-88c8-d2a6a31b2b08.png" width="100%" height="500px" />
